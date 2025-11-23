@@ -35,7 +35,7 @@ The playlist includes a wide range of **sports 🏏, news 📰, movies 🎬, and
 আপনি যদি চান **Mrgify-TV** সবসময় আপডেট থাকুক —  
 Premium + BDIX সব চ্যানেল স্মুথ চলুক —  
 তাহলে অবশ্যই নিচের লিংকে ক্লিক করে **Support** করবেন! ❤️
-https://abusaeeidx.github.io/Support/
+<a href="https://abusaeeidx.github.io/Support/" target="_blank" rel="noopener noreferrer">Click Here</a>
 > যতদিন Support চলতে থাকবে,
 > ততদিন ভালো সার্ভিস চলবে 🚀
 ---
