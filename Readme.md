@@ -30,7 +30,7 @@
 The playlist includes a wide range of **sports 🏏, news 📰, movies 🎬, and entertainment 🎵 channels**, optimized for **BDIX users** for smooth streaming experience.
 
 ## 📌**Important Notice**  
-## **📺 মার্জিফাই-টিভি — Best BDIX & Premium Channels Playlist**
+**📺 মার্জিফাই-টিভি — Best BDIX & Premium Channels Playlist**
 
 আপনি যদি চান **Mrgify-TV** সবসময় আপডেট থাকুক —  
 Premium + BDIX সব চ্যানেল স্মুথ চলুক —  
