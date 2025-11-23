@@ -61,24 +61,14 @@ Recommended Apps
 
 - All apps are available on Playstore.
 ---
+### 📺 Playlist Link
 
-*Playlist Link:*
 
 https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/raw/main/playlist.m3u
 
 Short Link:
 https://is.gd/mrgifytv
 
-
----
-
-### 📺 Android TV
-
-Use OTT Navigator:  
-Add Playlist:
-
-
-https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/raw/main/playlist.m3u
 
 
 ---
