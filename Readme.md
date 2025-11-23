@@ -4,13 +4,13 @@
   <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/logo.png" alt="Mrgify-TV" width="200">
 </p>
 
-<h1 align="center">
+<h2 align="center">
   <br>
   📺 Mrgify-TV  
   <br>
-  BDIX IPTV Playlist (Auto Update)
+  BDIX IPTV Playlist
   <br>
-</h1>
+</h2>
 
 <h2 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h2>
 
